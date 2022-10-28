@@ -1,5 +1,7 @@
 <h2 align="centre">---- ʟᴜᴄᴋʏ ✘ ᴍᴜꜱɪᴄx ---- </h2>
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kassim752/LUCKY_NAINA-MUSICX/tree/master)
+
 
 <p align="center"><a href="https://t.me/LOBE_JU"><img src="https://telegra.ph/file/a5fa69ce452590eb3c771.jpg" width="300"></a></p>
 <p align="center">
